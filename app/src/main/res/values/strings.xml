@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Hyefa</string>
+
+    <!---onboarding-->
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Manager</string>
+    <string name="slide_1_desc">The manager will interact with this system as a caretaker of the business. To keep track of the employees and distributors.</string>
+
+    <string name="slide_2_title">Employee</string>
+    <string name="slide_2_desc">Employee will post and update about his/her activity.</string>
+
+    <string name="slide_3_title">Distributor</string>
+    <string name="slide_3_desc">Distributor will post and update about his/her activity.</string>
+
+
+
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="Announcements">Announcements</string>
+    <string name="Check_Announcements">Check Announcements</string>
+    <string name="Task_Details">Task Details</string>
+    <string name="Check_Task_Details">Check Task Details</string>
+    <string name="Employees">Employee</string>
+    <string name="Check_list_of_employees">Check list of Employees</string>
+    <string name="Distributors">Distributor</string>
+    <string name="Check_list_of_distributors">Check list of Distributors</string>
+    <string name="Manager">Manager</string>
+    <string name="Update">Update</string>
+    <string name="Profile">Profile</string>
+    <string name="Profile_Name">Profile Name</string>
+    <string name="General">General</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_annoucement">Annoucement</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="send">Send</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="phone_no">Phone No.</string>
+    <string name="gender">Gender</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_onboarding">Onboarding</string>
+    <string name="choosephoto">Choose Photo</string>
+</resources>

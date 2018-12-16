@@ -1,0 +1,36 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ahmed.hyefa">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hyefa_icon_app"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/hyefa_icon_app"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+
+        <!-- Slider Screen -->
+        <activity android:name=".Intro.WelcomeActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!--Splash Activity -->
+        <activity android:name=".Intro.Splashscreen" />
+
+        <activity
+            android:name=".Manager.Navigation"
+            android:screenOrientation="locked"
+            android:label="@string/title_activity_navigation"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <activity android:name=".Manager.Employee"/>
+        <activity android:name=".Manager.Distributor"/>
+        <activity android:name=".Manager.Announcement" />
+        <activity android:name=".Manager.TaskDetail"/>
+        <activity android:name=".Manager.Message"/>
+
+    </application>
+</manifest>
