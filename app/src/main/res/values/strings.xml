@@ -49,4 +49,6 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="title_activity_onboarding">Onboarding</string>
     <string name="choosephoto">Choose Photo</string>
+    <string name="employeename">Employee Name</string>
+    <string name="distributorname">Distributor Name</string>
 </resources>

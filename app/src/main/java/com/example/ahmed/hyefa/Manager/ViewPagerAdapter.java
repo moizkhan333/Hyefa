@@ -16,12 +16,6 @@ import java.util.ArrayList;
 
 
 
-/**
-
- * Created by lucem on 11/28/2016.
-
- */
-
 
 
 public class ViewPagerAdapter extends FragmentPagerAdapter{

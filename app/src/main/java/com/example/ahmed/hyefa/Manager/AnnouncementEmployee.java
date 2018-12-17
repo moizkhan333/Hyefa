@@ -2,6 +2,7 @@ package com.example.ahmed.hyefa.Manager;
 
 
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
@@ -9,6 +10,10 @@ import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.ImageButton;
+import android.widget.LinearLayout;
+import android.widget.Toast;
 
 import com.example.ahmed.hyefa.R;
 
@@ -51,6 +56,8 @@ public class AnnouncementEmployee extends Fragment {
         View rootView = inflater.inflate(R.layout.announcement_employee, container, false);
         rootView.setTag(TAG);
 
+
+
         // BEGIN_INCLUDE(initializeRecyclerView)
         mRecyclerView = (RecyclerView) rootView.findViewById(R.id.recyclerView);
 
@@ -72,6 +79,8 @@ public class AnnouncementEmployee extends Fragment {
         // Set CustomAdapter as the adapter for RecyclerView.
         mRecyclerView.setAdapter(mAdapter);
         // END_INCLUDE(initializeRecyclerView)
+
+
 
         return rootView;
     }

@@ -32,5 +32,13 @@
         <activity android:name=".Manager.TaskDetail"/>
         <activity android:name=".Manager.Message"/>
 
+        <!--Employee-->
+        <activity android:name=".Employee.Emp_Announcement_Manager"/>
+        <activity android:name=".Employee.Task_Detail_Employee"/>
+
+        <!--Distributor-->
+        <activity android:name=".Distributor.Dist_Announcement_Manager"/>
+        <activity android:name=".Distributor.Task_Detail_Distributor"/>
+
     </application>
 </manifest>

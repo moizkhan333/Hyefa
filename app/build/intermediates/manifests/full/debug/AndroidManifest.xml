@@ -40,6 +40,14 @@
         <activity android:name="com.example.ahmed.hyefa.Manager.TaskDetail" />
         <activity android:name="com.example.ahmed.hyefa.Manager.Message" />
 
+        <!-- Employee -->
+        <activity android:name="com.example.ahmed.hyefa.Employee.Emp_Announcement_Manager" />
+        <activity android:name="com.example.ahmed.hyefa.Employee.Task_Detail_Employee" />
+
+        <!-- Distributor -->
+        <activity android:name="com.example.ahmed.hyefa.Distributor.Dist_Announcement_Manager" />
+        <activity android:name="com.example.ahmed.hyefa.Distributor.Task_Detail_Distributor" />
+
         <meta-data
             android:name="android.support.VERSION"
             android:value="26.1.0" />

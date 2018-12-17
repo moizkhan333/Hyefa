@@ -27,7 +27,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textMultiLine"
-            android:text="what's it about" />
+            android:hint="what's it about" />
 
         <TextView
             android:id="@+id/textView3"
@@ -44,7 +44,7 @@
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textMultiLine"
-            android:text="your message" />
+            android:hint="your message" />
 
         <TextView
             android:id="@+id/textView4"

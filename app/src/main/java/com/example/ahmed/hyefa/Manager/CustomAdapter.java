@@ -1,8 +1,6 @@
 package com.example.ahmed.hyefa.Manager;
 
-/**
- * Created by Ujang Wahyu on 24/01/2017.
- */
+
 
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
