@@ -34,6 +34,12 @@
             android:label="@string/title_activity_navigation"
             android:screenOrientation="locked"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.ahmed.hyefa.Manager.Loginas"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.ahmed.hyefa.Manager.Login"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.ahmed.hyefa.Manager.Employee" />
         <activity android:name="com.example.ahmed.hyefa.Manager.Distributor" />
         <activity android:name="com.example.ahmed.hyefa.Manager.Announcement" />

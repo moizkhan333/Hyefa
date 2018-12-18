@@ -25,7 +25,10 @@
             android:screenOrientation="locked"
             android:label="@string/title_activity_navigation"
             android:theme="@style/AppTheme.NoActionBar" />
-
+        <activity android:name=".Manager.Loginas"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Manager.Login"
+            android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".Manager.Employee"/>
         <activity android:name=".Manager.Distributor"/>
         <activity android:name=".Manager.Announcement" />

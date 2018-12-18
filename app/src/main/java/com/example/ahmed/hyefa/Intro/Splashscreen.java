@@ -9,6 +9,7 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.LinearLayout;
 
+import com.example.ahmed.hyefa.Manager.Loginas;
 import com.example.ahmed.hyefa.Manager.Navigation;
 import com.example.ahmed.hyefa.R;
 
@@ -48,7 +49,7 @@ public class Splashscreen extends AppCompatActivity {
                 e.printStackTrace();
             }
 
-            Intent intent = new Intent(Splashscreen.this, Navigation.class);
+            Intent intent = new Intent(Splashscreen.this, Loginas.class);
             startActivity(intent);
             Splashscreen.this.finish();
         }

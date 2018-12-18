@@ -392,12 +392,12 @@
         "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\014a5818ce8af9c42a94ae69fa328b86\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
-        "source": "C:\\Users\\MOIZ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\dbb9d137d2688885c935140d7667997e\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\MOIZ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\dbb9d137d2688885c935140d7667997e\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\MOIZ\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\dbb9d137d2688885c935140d7667997e\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
@@ -1980,6 +1980,10 @@
         "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\014a5818ce8af9c42a94ae69fa328b86\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\layout_loginas.xml.flat",
+        "source": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\src\\main\\res\\layout\\loginas.xml"
+    },
+    {
         "merged": "D:\\Users\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\014a5818ce8af9c42a94ae69fa328b86\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -3254,6 +3258,10 @@
     {
         "merged": "D:\\Users\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\014a5818ce8af9c42a94ae69fa328b86\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\src\\main\\res\\drawable\\icon.png"
     },
     {
         "merged": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
@@ -4802,6 +4810,10 @@
     {
         "merged": "D:\\Users\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
         "source": "C:\\Users\\Ahmed\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\014a5818ce8af9c42a94ae69fa328b86\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\layout_login.xml.flat",
+        "source": "C:\\Users\\MOIZ\\AndroidStudioProjects\\Hyefa\\app\\src\\main\\res\\layout\\login.xml"
     },
     {
         "merged": "D:\\Users\\Hyefa\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
